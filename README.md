@@ -8,5 +8,7 @@ In this challenge, use the HTTP GET method to retrieve information from a databa
 
 To run:
 
-npm i
+```
+npm i  
 npm start
+```
