@@ -4,4 +4,9 @@ In this challenge, use the HTTP GET method to retrieve information from a databa
  -per_page: he maximum number of results per page 
  -total: the total number of records in the search result 
  -total_pages: the total number of pages which must be queried to get all the results 
- -data: an array of JSON objects that contains transaction records 
+ -data: an array of JSON objects that contains transaction records
+
+To run:
+
+npm i
+npm start
